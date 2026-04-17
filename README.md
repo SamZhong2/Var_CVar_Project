@@ -73,8 +73,8 @@ The app automatically:
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/SamZhong2/Var_CVar_Project.git
+cd Var_CVar_Project
 ```
 
 Install dependencies:
