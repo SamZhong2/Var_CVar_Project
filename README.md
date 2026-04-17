@@ -123,7 +123,7 @@ Returns are sampled every $\delta$ periods.
 
 The portfolio is equal-weighted across `d` selected funds:
 
-$w_i = \frac{1}{d}$
+$$w_i = \frac{1}{d}$$
 
 ### VaR and CVaR
 
