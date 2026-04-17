@@ -115,9 +115,7 @@ Then open the local URL Streamlit prints in your terminal.
 
 For fund `i`, the $\tau$-horizon return is:
 
-$
-r^{(i)}_{t,\tau} = \frac{p^{(i)}_{t+\tau} - p^{(i)}_t}{p^{(i)}_t}
-$
+$r^{(i)}_{t,\tau} = \frac{p^{(i)}_{t+\tau} - p^{(i)}_t}{p^{(i)}_t}$
 
 Returns are sampled every $\delta$ periods.
 
@@ -125,9 +123,7 @@ Returns are sampled every $\delta$ periods.
 
 The portfolio is equal-weighted across `d` selected funds:
 
-$
-w_i = \frac{1}{d}
-$
+$w_i = \frac{1}{d}$
 
 ### VaR and CVaR
 
